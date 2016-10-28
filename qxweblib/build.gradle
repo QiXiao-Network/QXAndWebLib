@@ -30,3 +30,5 @@ dependencies {
     compile 'com.android.support:design:24.2.0'
     testCompile 'junit:junit:4.12'
 }
+
+apply from: "bintrayUpload.gradle"
