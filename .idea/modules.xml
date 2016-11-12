@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QXAndWebLib.iml" filepath="$PROJECT_DIR$/QXAndWebLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QXAndWebLib.iml" filepath="$PROJECT_DIR$/QXAndWebLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/qxweblib/qxweblib.iml" filepath="$PROJECT_DIR$/qxweblib/qxweblib.iml" />
       <module fileurl="file://$PROJECT_DIR$/qxweblib/qxweblib.iml" filepath="$PROJECT_DIR$/qxweblib/qxweblib.iml" />
     </modules>
   </component>
