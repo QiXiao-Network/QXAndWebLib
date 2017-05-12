@@ -11,11 +11,17 @@
     android:orientation="vertical"
     tools:context="com.qixiao.qxandweblib.MainActivity">
 
+    <EditText
+        android:id="@+id/et_url"
+        android:hint="https://github.com/"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
     <Button
         android:id="@+id/open_web"
         android:onClick="onClick"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="打开WebActivity" />
+        android:text="打开链接" />
 
 </LinearLayout>

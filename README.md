@@ -2,7 +2,7 @@
 - 概述：供Android依赖的Web模块;  
 - 导入：
     * import module QXAndWebLib/qxwebLib  
-    * ```compile 'com.qixiao:qxweblib:1.1'```   
+    * ```compile 'com.qixiao:qxweblib:1.1' //暂停使用```
 - 使用：```WebActivity.start(this, "https://github.com", "github");``` , 具体怎么调用请参考QXAndWebLib/app;   
 - 注意：jCenter分支是用来与jCenter中的代码同步的，所以大家直接在master分支上修改代码就好，尽量不要动jCenter分支;  
 

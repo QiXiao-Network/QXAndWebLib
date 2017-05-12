@@ -5,6 +5,8 @@
     <color name="colorAccent">#ff8ca4</color>
     <color name="colorHeightLight">#88222222</color>
 
+    <color name="colorActionbarTitle">#fff</color>
+
     <color name="colorWebProgressbarProgress">#a1f7ff</color>
     <color name="colorWebProgressbarBackground">#00ffffff</color>
 </resources>
